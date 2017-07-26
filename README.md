@@ -2,8 +2,6 @@
 
 ![image](https://user-images.githubusercontent.com/550895/28599439-8fea60c0-7178-11e7-8415-a7bf349d2f61.png)
 
-![image](https://user-images.githubusercontent.com/550895/28599483-eb951398-7178-11e7-8883-b6fa3f755af2.png)
-
 ## Mapillary Info
 
 - Image Key = `bbMEqZHTM-2a2UMhFnBytw`
