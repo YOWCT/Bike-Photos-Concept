@@ -5,7 +5,7 @@
 ## Simple dimple UX flow
 
 ![image](https://user-images.githubusercontent.com/30472638/30257199-37a74b8c-967e-11e7-86e1-255d32d4ecf6.png)
-- [UX Flow 1] (https://www.lucidchart.com/invitations/accept/255d41fa-edcc-4e6e-93e3-49dd70d6b22c) (commenting enabled)
+- [UX Flow 1](https://www.lucidchart.com/invitations/accept/255d41fa-edcc-4e6e-93e3-49dd70d6b22c) (commenting enabled)
 
 ## Simple dimple wireframe
 - *Coming soon!* 
